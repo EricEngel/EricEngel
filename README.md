@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @EricEngel.
 - 👀 I’m interested in EVERYTHING!
-- 🌱 I’m currently learning MORE THAN I PROBABLY SHOULD!
-- 💞️ I’m looking to collaborate on ...probably nothing because I am a novice at everything and I don't want to slow things down or screw something up!
 - 📫 How to reach me? @EricEngel on Twitter.
 
 <!---
