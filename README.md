@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EricEngel.
-- 👀 I’m interested in EVERYTHING!
+- 👀 I’m interested in EVERYTHING! Currently focused more on Linux and Godot.
 - 📫 How to reach me? @EricEngel on Twitter.
 
 <!---
