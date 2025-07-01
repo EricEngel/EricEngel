@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EricEngel.
 - 👀 I’m interested in EVERYTHING! Currently focused more on Linux and Godot.
-- 📫 How to reach me? @EricEngel on Twitter.
+- 📫 How to reach me? @ericengel.bsky.social on BlueSky.
 
 <!---
 EricEngel/EricEngel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
